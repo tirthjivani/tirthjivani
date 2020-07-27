@@ -58,7 +58,7 @@
 <code><a href="https://www.apollographql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg"></a></code>
 
   
-**💬 Frameworks :** 
+**🖼 Frameworks :** 
 
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
@@ -74,28 +74,28 @@
 <code><a href="https://reactnative.dev/" target="_blank"><img height="50" src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/react-native.svg"></a></code>
 
 
-**🚴🏻‍♂️ Package Manager :** 
+**🎒 Package Manager :** 
 
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_pip.svg"></a></code>
 
 
-**🚴🏻‍♂️ IDEs :** 
+**📖 IDEs :** 
 
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></a></code>
 
 
-**🚴🏻‍♂️ OS :** 
+**📱 OS :** 
 
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/macosx.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/windows-10.svg"></a></code>
 
 
-**🚴🏻‍♂️ Other Platforms :** 
+**⺟ Other Platforms :** 
 
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-ar21.svg"></a></code>
