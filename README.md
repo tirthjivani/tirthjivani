@@ -62,11 +62,8 @@
 
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
 <code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 <code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
@@ -85,14 +82,18 @@
 
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></a></code>
+<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></a></code>
+<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-official.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></a></code>
 
 
 **📱 OS :** 
 
-<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/macosx.svg"></a></code>
+<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/windows-10.svg"></a></code>
+<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
+<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg"></a></code>
 
 
 **⺟ Other Platforms :** 
