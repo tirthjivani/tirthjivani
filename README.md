@@ -85,15 +85,6 @@
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></a></code>
 
 
-**📱 OS :** 
-
-<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/macos.svg"></a></code>
-<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
-<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/windows-10.svg"></a></code>
-<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
-<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg"></a></code>
-
-
 **⺟ Other Platforms :** 
 
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></a></code>
