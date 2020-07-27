@@ -1,22 +1,6 @@
+# I'm <a href="https://tirthjivani.github.io"><b>Tirth</b></a>, Welcome to this.Universe! 
 
-<!--
-**tirthjivani/tirthjivani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Tirth Jivani <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
-
-###  Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<img src="https://thumbs.gfycat.com/ContentForkedEmperorshrimp.webp" width="200px"></h2>
 
 <p>
   <em>
@@ -28,23 +12,39 @@ Here are some ideas to get you started:
   </em>  
 </p>
 
-
+<br>
 <br>
 
 
-<!-- ![Tirth's github stats](https://github-readme-stats.vercel.app/api?username=tirthjivani&show_icons=true&hide_border=true) -->
+**📫 Contact Me :** 
 
-<br>
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tirthjivani/)](https://www.linkedin.com/in/tirthjivani/) 
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tirthjivani17@gmail.com)](mailto:tirthjivani17@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-MEDIUM-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@tirthjivani17)](https://medium.com/@tirthjivani17)
+<a href="https://www.instagram.com/tirthjivani/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Facebook Badge](https://img.shields.io/badge/-FACEBOOK-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/tirth.jivani/)](https://www.facebook.com/tirth.jivani/) 
 
-  <a href="https://in.linkedin.com/in/tirthjivani">
-    <img align="left" alt="TJ | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/TirthJivani">
-    <img align="left" alt="TJ | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/tirthjivani/">
-    <img align="left" alt="TJ | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:tirthjivani@gmail.com">
-    <img align="left" alt="TJ | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+
+**💼 Currently working as:** Developer at <a href="https://github.com/meriStreet-Web-App">MeriStreet</a>
+
+**👨🏻‍💻 Knowledge :** 
+
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
+
+**💬 Frameworks :** 
+
+<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+
+
+[![HitCount](http://hits.dwyl.com/tirthjivani/tirthjivani/tirthjivani.svg)](http://hits.dwyl.com/tirthjivani/tirthjivani/tirthjivani)
+
+
+
