@@ -18,7 +18,6 @@
 
 
 **📫 Contact Me :** 
-
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tirthjivani/)](https://www.linkedin.com/in/tirthjivani/) 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tirthjivani17@gmail.com)](mailto:tirthjivani17@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-MEDIUM-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@tirthjivani17)](https://medium.com/@tirthjivani17)
@@ -26,7 +25,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-FACEBOOK-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/tirth.jivani/)](https://www.facebook.com/tirth.jivani/) 
 
 
-**📦 Organisations :** 
+**🏢 Organisations :** 
 
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ieee/ieee-ar21.svg"></a></code>
 
@@ -41,7 +40,6 @@
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.svg"></a></code>
-<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></a></code>
 
 
 **📦 Databases :** 
@@ -89,7 +87,7 @@
 
 **📱 OS :** 
 
-<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/macosx.svg"></a></code>
+<code><a href="https://expo.io/" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/macos.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/windows-10.svg"></a></code>
 <code><a href="https://expo.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
