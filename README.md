@@ -1,6 +1,6 @@
 ## I'm <a href="https://tirthjivani.github.io"><b>Tirth</b></a>, Welcome to this.Universe! 
 
-<img src="https://thumbs.gfycat.com/ContentForkedEmperorshrimp.webp" width="200px"></h2>
+<img src="https://thumbs.gfycat.com/ContentForkedEmperorshrimp.webp" width="170px"></h2>
 
 <p>
   <em>
