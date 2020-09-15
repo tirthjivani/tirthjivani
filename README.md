@@ -22,7 +22,8 @@ I have worked as React Native Full-Stack Developer at <a href="https://github.co
 ## Organization
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ieee/ieee-ar21.svg"></a></code>
 
-[![HitCount](http://hits.dwyl.com/tirthjivani/tirthjivani/tirthjivani.svg)](http://hits.dwyl.com/tirthjivani/tirthjivani/tirthjivani)
+
+[![HitCount](http://hits.dwyl.com/tirthjivani/tirthjivani.svg)](http://hits.dwyl.com/tirthjivani/tirthjivani)
 
 
 
