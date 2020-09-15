@@ -11,9 +11,11 @@
 
 I am <a href="https://tirthjivani.github.io"><b>Tirth</b></a>, 4th year undergraduate from <a href="https://www.ahduni.edu.in/"> <b>School of Engineering and Applied Science, Ahmedabad University</b></a>.
 <br>
+
 I have worked as React Native Full-Stack Developer at <a href="https://github.com/meriStreet-Web-App"><b>MeriStreet</b></a> and also a Full-Stack Developer at <a href="https://www.iirs.gov.in/"><b>Indian Indstitute of Remote Sensing</b></a>.
 <br>
-A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+
+<b>Obsessed</b> with the idea of <b>improving</b> myself and wants a <b>platform</b> to <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and <b>excel  </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">.
 
 <br>
 
