@@ -23,7 +23,7 @@ I have worked as React Native Full-Stack Developer at <a href="https://github.co
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ieee/ieee-ar21.svg"></a></code>
 
 
-![Viewwwws](https://rushter.com/counter.svg)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ftirthjivani%2Ftirthjivani)
 
 
 
