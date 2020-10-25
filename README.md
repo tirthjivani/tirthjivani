@@ -15,7 +15,7 @@ I am <a href="https://tirthjivani.github.io"><b>Tirth</b></a>, fourth year under
 I have worked as React Native Full-Stack Developer at <a href="https://github.com/meriStreet-Web-App"><b>MeriStreet</b></a> and also a Full-Stack Developer at <a href="https://www.iirs.gov.in/"><b>Indian Indstitute of Remote Sensing</b></a>.
 <br>
 
-<b>Obsessed</b> with the idea of <b>improving</b> myself and wants a <b>platform</b> to <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and <b>excel  </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">.
+A young software engineer with a passion for technology, a way with people, and a wish to build the community better.
 
 <br>
 
