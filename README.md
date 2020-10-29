@@ -23,7 +23,7 @@ A young software engineer with a passion for technology, a way with people, and 
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ieee/ieee-ar21.svg"></a></code>
 
 
-![Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ftirthjivani%2Ftirthjivani)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ftirthjivani%2Ftirthjivani)
 
 
 
