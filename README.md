@@ -12,7 +12,7 @@
 I am <a href="https://tirthjivani.github.io"><b>Tirth</b></a>, final year undergrad student from <a href="https://www.ahduni.edu.in/"> <b>School of Engineering and Applied Science, Ahmedabad University</b></a>.
 <br>
 
-I am working as Angular Front-End Developer at <b>TrueIn</b>. I have worked as React Native Full-Stack Developer at <a href="https://github.com/meriStreet-Web-App"><b>MeriStreet</b></a> and also worked as a Full-Stack Developer at <a href="https://www.iirs.gov.in/"><b>Indian Indstitute of Remote Sensing</b></a>.
+I am working as Angular Front-End Developer at <a href="https://truein.com/"><b>TrueIn</b></a>. I have worked as React Native Full-Stack Developer at <a href="https://github.com/meriStreet-Web-App"><b>MeriStreet</b></a> and also worked as a Full-Stack Developer at <a href="https://www.iirs.gov.in/"><b>Indian Indstitute of Remote Sensing</b></a>.
 <br>
 
 A young software engineer with a passion for technology, a way with people, and a wish to build the community better.
