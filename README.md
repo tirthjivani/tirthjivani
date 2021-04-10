@@ -20,7 +20,7 @@ A young software engineer with a passion for technology, a way with people, and 
 <br>
 
 ## Organization
-<code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ieee/ieee-ar21.svg"></a></code>
+<code><a href="https://ieee.ahduni.edu.in/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ieee/ieee-ar21.svg"></a></code>
 
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ftirthjivani%2Ftirthjivani)
