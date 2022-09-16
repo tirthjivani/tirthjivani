@@ -21,6 +21,8 @@ A young software engineer with a passion for technology, a way with people, and 
 
 ## Organization
 <code><a href="https://ieee.ahduni.edu.in/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ieee/ieee-ar21.svg"></a></code>
+<code><a href="https://www.iirs.gov.in/" target="_blank"><img height="50" src="https://education.sakshi.com/sites/default/files/2022-04/isra-iirs.jpg"></a></code>
+<code><a href="https://ahduni.edu.in" target="_blank"><img height="50" src="https://ahduni.edu.in/site/assets/files/1/default_logo_final_png.1000x0.webp"></a></code>
 
 
 
