@@ -15,7 +15,7 @@ I am <a href="https://tirthjivani.github.io"><b>Tirth</b></a>, UX Designer at <a
 I worked as Angular Front-End Developer at <a href="https://truein.com/"><b>TrueIn</b></a>. also experienced a full fledge startup at <a href="https://github.com/meriStreet-Web-App"><b>MeriStreet</b></a> and also built an Software from scratch bottom as a Full-Stack Developer at <a href="https://www.iirs.gov.in/"><b>Indian Institute of Remote Sensing</b></a>.
 <br>
 
-A young software engineer with a passion for technology, a way with people, and a wish to build the community better.
+A young engineer with a passion for technology, a way with people, and a wish to build the community better.
 
 <br>
 
@@ -23,7 +23,4 @@ A young software engineer with a passion for technology, a way with people, and 
 <code><a href="https://ieee.ahduni.edu.in/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ieee/ieee-ar21.svg"></a></code>
 <code><a href="https://www.iirs.gov.in/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Indian_Space_Research_Organisation_Logo.svg/800px-Indian_Space_Research_Organisation_Logo.svg.png"></a></code>
 <code><a href="https://ahduni.edu.in" target="_blank"><img height="50" src="https://ahduni.edu.in/site/assets/files/1/default_logo_final_png.1000x0.webp"></a></code>
-
-
-
 
