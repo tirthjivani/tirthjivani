@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-FACEBOOK-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/tirth.jivani/)](https://www.facebook.com/tirth.jivani/) 
 
 
-<img align="right" src="https://thumbs.gfycat.com/ContentForkedEmperorshrimp.webp" width="170px"></h2>
+<img align="right" src="https://i.pinimg.com/originals/07/a5/fc/07a5fc8373e2ef544ef3ba3164fdd600.gif" width="170px"></h2>
 
 I am <a href="https://tirthjivani.github.io"><b>Tirth</b></a>, UX Designer at <a href="https://sellerapp.com/"> <b>SellerApp</b></a>.
 <br>
