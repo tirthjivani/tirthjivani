@@ -23,4 +23,7 @@ A young engineer with a passion for technology, a way with people, and a wish to
 <code><a href="https://ieee.ahduni.edu.in/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ieee/ieee-ar21.svg"></a></code>
 <code><a href="https://www.iirs.gov.in/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Indian_Space_Research_Organisation_Logo.svg/800px-Indian_Space_Research_Organisation_Logo.svg.png"></a></code>
 <code><a href="https://ahduni.edu.in" target="_blank"><img height="50" src="https://ahduni.edu.in/site/assets/files/1/default_logo_final_png.1000x0.webp"></a></code>
+<code><a href="https://sellerapp.com" target="_blank"><img height="50" src="https://cdn.sellerapp.com/img/website-v2/common/sellerapp-logo-white.svg"></a></code>
+<code><a href="https://opencommerce.withgoogle.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png"></a></code>
+<code><a href="https://outbox.vc" target="_blank"><img height="50" src="https://outbox.vc/assets/outboxlogo.svg"></a></code>
 
