@@ -9,10 +9,10 @@
 
 <img align="right" src="https://i.pinimg.com/originals/07/a5/fc/07a5fc8373e2ef544ef3ba3164fdd600.gif" width="170px"></h2>
 
-I am <a href="https://tirthjivani.github.io"><b>Tirth</b></a>, UX Designer at <a href="https://sellerapp.com/"> <b>SellerApp</b></a>.
+I am <a href="https://tirthjivani.github.io"><b>Tirth</b></a>, Sr. UX Designer at <a href="https://sellerapp.com/"> <b>Outbox Labs</b></a>.
 <br>
 
-I worked as Angular Front-End Developer at <a href="https://truein.com/"><b>TrueIn</b></a>. also experienced a full fledge startup at <a href="https://github.com/meriStreet-Web-App"><b>MeriStreet</b></a> and also built an Software from scratch bottom as a Full-Stack Developer at <a href="https://www.iirs.gov.in/"><b>Indian Institute of Remote Sensing</b></a>.
+I worked as Designer at <a href="https://sellerapp.com/"><b>SellerApp</b></a>, prior that I used to work as Front-End Developer at <a href="https://truein.com/"><b>TrueIn</b></a>. also experienced a full fledge startup at <a href="https://github.com/meriStreet-Web-App"><b>MeriStreet</b></a> and also built an Software from scratch bottom as a Full-Stack Developer at <a href="https://www.iirs.gov.in/"><b>Indian Institute of Remote Sensing</b></a>.
 <br>
 
 A young engineer with a passion for technology, a way with people, and a wish to build the community better.
