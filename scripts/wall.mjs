@@ -134,10 +134,10 @@ ${rows}
 // Opens a new issue with the "wall: " title and instructions prefilled.
 const WRITE_URL = "https://github.com/tirthjivani/tirthjivani/issues/new?title=wall%3A%20&body=%F0%9F%91%8B%20Thanks%20for%20stopping%20by%21%0A%0A%2A%2APut%20your%20message%20in%20the%20title%20above%2A%2A%2C%20after%20%60wall%3A%60%20%E2%80%94%20for%20example%20%60wall%3A%20hello%20from%20Berlin%60.%0A%0A-%20Letters%2C%20numbers%20and%20basic%20punctuation%2C%20up%20to%2040%20characters%20%28%60%3C3%60%20becomes%20a%20%E2%99%A5%29%0A-%20Hit%20%2A%2ACreate%2A%2A.%20A%20GitHub%20Action%20paints%20it%20onto%20the%20board%20in%20about%20a%20minute%20and%20closes%20this%20issue.%0A-%20It%27s%20public%20and%20shows%20up%20on%20my%20profile%2C%20so%20keep%20it%20kind.%0A";
 
-// The <a> goes inside <picture>: GitHub hoists an <img> out of a
-// <picture> that sits inside a link, which breaks both the link and theming.
+// The <img> must stay a direct child of <picture> or browsers ignore the
+// dark <source>, so the link wraps the whole picture.
 const picture = (file, alt, href, attrs = "") =>
-  `<picture><source media="(prefers-color-scheme: dark)" srcset="${RAW}/${file}-dark.svg"><a href="${href}"><img alt="${esc(alt)}" src="${RAW}/${file}-light.svg"${attrs}></a></picture>`;
+  `<a href="${href}"><picture><source media="(prefers-color-scheme: dark)" srcset="${RAW}/${file}-dark.svg"><img alt="${esc(alt)}" src="${RAW}/${file}-light.svg"${attrs}></picture></a>`;
 
 function replaceBlock(md, name, body) {
   const re = new RegExp(`(<!-- ${name}:start -->)[\\s\\S]*?(<!-- ${name}:end -->)`);
