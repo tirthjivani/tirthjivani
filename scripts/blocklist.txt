@@ -1,0 +1,33 @@
+# Words the wall refuses. One per line, case-insensitive. Words longer than
+# four letters are also caught when hidden inside other text ("F.U.C.K.E.R").
+# Add to it freely.
+ASS
+ASSHOLE
+BASTARD
+BITCH
+BOLLOCKS
+COCK
+CUNT
+DICK
+DILDO
+FAG
+FAGGOT
+FUCK
+FUCKER
+FUCKING
+MOTHERFUCKER
+NAZI
+NIGGA
+NIGGER
+PENIS
+PORN
+PUSSY
+RAPE
+RETARD
+SEX
+SHIT
+SLUT
+TWAT
+VAGINA
+WANKER
+WHORE
